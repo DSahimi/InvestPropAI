@@ -1,0 +1,7 @@
+{
+  "name": "PropVest AI",
+  "description": "AI-powered real estate investment analyzer with visual editing, video generation, and voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
